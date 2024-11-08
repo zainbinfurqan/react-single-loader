@@ -2,7 +2,7 @@ import React from "react";
 import styles from  './index.css'
 
 
-export default  ReactLoader = () => {
+export const  ReactLoader = () => {
   return (
     <div className={styles.center}>  
         <div className={styles.wave}></div>  
@@ -18,3 +18,5 @@ export default  ReactLoader = () => {
     </div>  
   );
 }
+
+export default  ReactLoader;
