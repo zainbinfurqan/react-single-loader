@@ -1,20 +1,20 @@
 import React from "react";
-import './style.module.css'
+import styles from  './style.module.css'
 
 
 export const Loader = () => {
   return (
-    <div className='center'>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
+    <div className={styles.center}>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
     </div>  
   );
 }
