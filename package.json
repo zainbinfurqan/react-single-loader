@@ -4,7 +4,7 @@
   "description": "Made with create-react-library",
   "author": "zainbinfurqan",
   "license": "MIT",
-  "repository": "zainbinfurqan/react-single-loader",
+  "repository": "https://github.com/zainbinfurqan/react-single-loader",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
