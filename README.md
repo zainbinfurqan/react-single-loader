@@ -15,12 +15,12 @@ npm install --save react-single-loader
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-single-loader'
+import ReadLoader from 'react-single-loader'
 import 'react-single-loader/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <ReadLoader />
   }
 }
 ```

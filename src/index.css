@@ -1,7 +1,9 @@
 .center {  
   height: 100vh;  
   display: flex;  
-  justify-content: center;  
+  justify-content: center;
+  position: absolute;
+  width: 100%;  
   align-items: center;  
   background: transparent;  
  }  
