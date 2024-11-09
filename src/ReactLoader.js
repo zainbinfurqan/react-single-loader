@@ -1,20 +1,20 @@
 import React from "react";
-import './index.css'
+import styles from './index.css'
 
 
 export const  ReactLoader = () => {
   return (
-    <div className='center'>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
-        <div className='wave'></div>  
+    <div className={styles.center}>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
+        <div className={styles.wave}></div>  
     </div>  
   );
 }
