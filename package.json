@@ -1,8 +1,8 @@
 {
   "name": "react-single-loader",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Made with create-react-library",
-  "author": "zainbinfurqan",
+  "author": { "name": "zain ahmed", "email": "zain.ahmed199524@gmail.com", "github": "zainbinfurqan" },
   "license": "MIT",
   "repository": "https://github.com/zainbinfurqan/react-single-loader",
   "main": "dist/index.js",
@@ -49,5 +49,14 @@
   },
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "loader",
+    "react loader",
+    "infinite loader",
+    "loader UI",
+    "react simple loader",
+    "react",
+    "reactjs"
   ]
 }
